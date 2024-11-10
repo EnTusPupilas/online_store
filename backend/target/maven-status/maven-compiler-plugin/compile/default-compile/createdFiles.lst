@@ -1,0 +1,8 @@
+com\example\ecommerce\EcommerceApplication.class
+com\example\ecommerce\entity\Product.class
+com\example\ecommerce\entity\Order$Status.class
+WebConfig.class
+com\example\ecommerce\entity\Order.class
+com\example\ecommerce\entity\User.class
+com\example\ecommerce\entity\User$Role.class
+com\example\ecommerce\entity\OrderItem.class
